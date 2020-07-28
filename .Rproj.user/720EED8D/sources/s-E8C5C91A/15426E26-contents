@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r exercise1, exercise=TRUE}
 print("Hello World")
+hist(rnorm(100,100))
 ```
 
 ```{r exercise1-solution}
