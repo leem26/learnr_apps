@@ -1,0 +1,25 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: test1.html
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+```{r exercise1, exercise=TRUE}
+print("Hello World")
+```
+
+```{r exercise1-solution}
+print("Hello World Solution")
+```
+
+<div data-iframe-height></div>

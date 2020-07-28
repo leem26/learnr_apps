@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595896978080.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "15426E26",
+    "lastKnownWriteTime" : 1595897158,
+    "last_content_update" : 1595897158376,
+    "path" : "~/learnr_apps/learnr_app1.Rmd",
+    "project_path" : "learnr_app1.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,35",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

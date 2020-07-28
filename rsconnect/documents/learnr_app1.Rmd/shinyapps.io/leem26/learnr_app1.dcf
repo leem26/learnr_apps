@@ -1,0 +1,12 @@
+name: learnr_app1
+title: learnr_app1
+username:
+account: leem26
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2618420
+bundleId: 3443729
+url: https://leem26.shinyapps.io/learnr_app1/
+when: 1595897278.30838
+asMultiple: FALSE
+asStatic: FALSE
